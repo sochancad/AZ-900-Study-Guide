@@ -66,5 +66,3 @@
 * [Describe the concept of Zero Trust](https://www.microsoft.com/en-ca/security/business/zero-trust/)
 * [Describe the purpose of the defense-in-depth model](https://azure.microsoft.com/en-us/blog/microsoft-azures-defense-in-depth-approach-to-cloud-vulnerabilities/) | [PDF](https://info.microsoft.com/rs/157-GQE-382/images/Defense_In_Depth_Enterprise%20Mobility_and_Security_61517.pdf)
 * [Describe the purpose of Microsoft Defender for Cloud](https://learn.microsoft.com/en-ca/azure/defender-for-cloud/defender-for-cloud-introduction)
-
-[Return to Table of Contents](README.md)
